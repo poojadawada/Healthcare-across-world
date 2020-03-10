@@ -7,3 +7,6 @@ We tried to look at the perceptions of healthcare systems in US, Africa and Euro
 
 
 ![Healthcare Perception Reddit](https://github.com/poojadawada/Healthcare-across-world/blob/master/Reddit_word.PNG)
+
+
+For more information, please view the presentation in the repository.
